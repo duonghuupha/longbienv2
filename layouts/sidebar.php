@@ -280,7 +280,7 @@
                 <li class="hover">
                     <a href="#">
                         <i class="menu-icon fa fa-caret-right"></i>
-                        Phân lớp
+                        Nhập trang thiết bị
                     </a>
                     <b class="arrow"></b>
                 </li>
